@@ -1,0 +1,133 @@
+[
+    {
+      "objectID": "eurotrans-monday-de-fr",
+      "company": "EuroTrans Logistics",
+      "startCountry": "Germany",
+      "endCountry": "France",
+      "dayOfWeek": "Monday",
+      "profileImage": "https://picsum.photos/seed/eurotrans/200",
+      "contact": {
+        "phones": ["+49 171 555 333", "+49 89 123 4567"],
+        "email": "info@eurotrans.eu",
+        "website": "https://www.eurotrans.eu"
+      }
+    },
+    {
+      "objectID": "eurotrans-wednesday-fr-es",
+      "company": "EuroTrans Logistics",
+      "startCountry": "France",
+      "endCountry": "Spain",
+      "dayOfWeek": "Wednesday",
+      "profileImage": "https://picsum.photos/seed/eurotrans2/200",
+      "contact": {
+        "phones": ["+49 171 555 333", "+49 89 123 4567"],
+        "email": "info@eurotrans.eu",
+        "website": "https://www.eurotrans.eu"
+      }
+    },
+    {
+      "objectID": "nordic-tuesday-dk-de",
+      "company": "Nordic Haul",
+      "startCountry": "Denmark",
+      "endCountry": "Germany",
+      "dayOfWeek": "Tuesday",
+      "profileImage": "https://picsum.photos/seed/nordic/200",
+      "contact": {
+        "phones": ["+45 12 34 56 78"],
+        "email": "contact@nordichaul.dk",
+        "website": "https://www.nordichaul.dk"
+      }
+    },
+    {
+      "objectID": "nordic-friday-dk-se",
+      "company": "Nordic Haul",
+      "startCountry": "Denmark",
+      "endCountry": "Sweden",
+      "dayOfWeek": "Friday",
+      "profileImage": "https://picsum.photos/seed/nordic2/200",
+      "contact": {
+        "phones": ["+45 12 34 56 78"],
+        "email": "contact@nordichaul.dk",
+        "website": "https://www.nordichaul.dk"
+      }
+    },
+    {
+      "objectID": "fastcargo-tuesday-pl-it",
+      "company": "FastCargo Europe",
+      "startCountry": "Poland",
+      "endCountry": "Italy",
+      "dayOfWeek": "Tuesday",
+      "profileImage": "https://picsum.photos/seed/fastcargo/200",
+      "contact": {
+        "phones": ["+48 22 654 7890"],
+        "email": "dispatch@fastcargo.eu",
+        "website": "https://www.fastcargo.eu"
+      }
+    },
+    {
+      "objectID": "fastcargo-thursday-it-pl",
+      "company": "FastCargo Europe",
+      "startCountry": "Italy",
+      "endCountry": "Poland",
+      "dayOfWeek": "Thursday",
+      "profileImage": "https://picsum.photos/seed/fastcargo2/200",
+      "contact": {
+        "phones": ["+48 22 654 7890"],
+        "email": "dispatch@fastcargo.eu",
+        "website": "https://www.fastcargo.eu"
+      }
+    },
+    {
+      "objectID": "alpine-monday-ch-at",
+      "company": "Alpine Logistics",
+      "startCountry": "Switzerland",
+      "endCountry": "Austria",
+      "dayOfWeek": "Monday",
+      "profileImage": "https://picsum.photos/seed/alpine/200",
+      "contact": {
+        "phones": ["+41 44 987 6543"],
+        "email": "info@alpinelogistics.ch",
+        "website": "https://www.alpinelogistics.ch"
+      }
+    },
+    {
+      "objectID": "alpine-wednesday-at-ch",
+      "company": "Alpine Logistics",
+      "startCountry": "Austria",
+      "endCountry": "Switzerland",
+      "dayOfWeek": "Wednesday",
+      "profileImage": "https://picsum.photos/seed/alpine2/200",
+      "contact": {
+        "phones": ["+41 44 987 6543"],
+        "email": "info@alpinelogistics.ch",
+        "website": "https://www.alpinelogistics.ch"
+      }
+    },
+    {
+      "objectID": "baltic-thursday-lv-de",
+      "company": "Baltic Freight",
+      "startCountry": "Latvia",
+      "endCountry": "Germany",
+      "dayOfWeek": "Thursday",
+      "profileImage": "https://picsum.photos/seed/baltic/200",
+      "contact": {
+        "phones": ["+371 67 222 333"],
+        "email": "logistics@balticfreight.lv",
+        "website": "https://www.balticfreight.lv"
+      }
+    },
+    {
+      "objectID": "baltic-sunday-de-lv",
+      "company": "Baltic Freight",
+      "startCountry": "Germany",
+      "endCountry": "Latvia",
+      "dayOfWeek": "Sunday",
+      "profileImage": "https://picsum.photos/seed/baltic2/200",
+      "contact": {
+        "phones": ["+371 67 222 333"],
+        "email": "logistics@balticfreight.lv",
+        "website": "https://www.balticfreight.lv"
+      }
+    }
+  ]
+  
